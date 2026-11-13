@@ -5,8 +5,7 @@ range-time maps, Doppler spectra and micro-Doppler spectrograms, then recognises
 activity. The signal-processing stages are the main deliverable; classification is a
 thin layer on top.
 
-Data: University of Glasgow, [Radar signatures of human activities](DOI 10.5525/gla.researchdata.848, CC BY 4.0).
-publication in any report.
+Data: University of Glasgow, [Radar signatures of human activities](https://doi.org/10.5525/gla.researchdata.848) (CC BY 4.0)
 
 ## What the dataset is
 - 5.8 GHz FMCW radar, 400 MHz bandwidth, 1 ms chirps, 128 samples per chirp.
