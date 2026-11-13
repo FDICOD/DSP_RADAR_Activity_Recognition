@@ -5,8 +5,7 @@ range-time maps, Doppler spectra and micro-Doppler spectrograms, then recognises
 activity. The signal-processing stages are the main deliverable; classification is a
 thin layer on top.
 
-Data: University of Glasgow, "Radar signatures of human activities"
-(DOI 10.5525/gla.researchdata.848, CC BY 4.0). Please cite the dataset authors' related
+Data: University of Glasgow, [Radar signatures of human activities](DOI 10.5525/gla.researchdata.848, CC BY 4.0).
 publication in any report.
 
 ## What the dataset is
