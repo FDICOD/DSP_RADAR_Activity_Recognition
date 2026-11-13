@@ -70,4 +70,3 @@ Feature extraction is cached (`results/cache`), so an interrupted run resumes wh
 | `tools/` | One-off data preparation (Python) |
 | `report/` | Notes and workflow documents |
 | `results/` | Generated output (not tracked) |
-| `openspec/` | Specifications, design and task list for the project |
